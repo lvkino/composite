@@ -6,6 +6,7 @@ const Container = styled.div`
 	position: relative;
 	display: inline-block;
     font-size: 0;
+    overflow: hidden;
 `;
 
 const BackgroundImage = styled.img`
